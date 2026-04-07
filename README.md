@@ -31,6 +31,36 @@ Support smart city decision-making with data
 
 👉 These insights can help city planners:
 
-Improve enforcement strategies
-Optimize traffic signals
-Reduce congestion hotspots
+Improve enforcement strategies,
+Optimize traffic signals,
+Reduce congestion hotspots.
+
+🧠 Methodology
+1. Data Analysis
+Exploratory Data Analysis (EDA) on multi-year sensor data
+Trend analysis across time (hourly, monthly, yearly)
+
+2. Machine Learning Models
+XGBoost Regressor (Poisson) → Traffic prediction
+Random Forest Classifier → Zero-traffic detection
+
+3. Traffic Classification
+Categorized traffic into:
+- Low
+- Medium
+- High
+
+4. Anomaly Detection
+Flow-based detection between sensor pairs
+Identifies:
+- Bottlenecks
+- Route diversions
+- Traffic inconsistencies
+
+5. Visualization
+Geospatial mapping of traffic flow
+Time-series visualizations
+
+
+
+
