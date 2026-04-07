@@ -59,7 +59,7 @@ Categorized traffic into:
 <img width="443" height="263" alt="image" src="https://github.com/user-attachments/assets/b79a479f-89f6-46e1-90ca-a91af060b2f9" />
 
 
-4. Anomaly Detection
+5. Anomaly Detection
 Flow-based detection between sensor pairs
 Identifies:
 - Bottlenecks
@@ -76,7 +76,7 @@ Route 47 -> 51:
   - Anomaly Insight: 13 anomalies detected. Types: {'None': 273, 'NegativeDrop': 13}
 
 
-5. Visualization
+6. Visualization
 Geospatial mapping of traffic flow
 Time-series visualizations
 
