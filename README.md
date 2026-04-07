@@ -45,7 +45,7 @@ XGBoost Regressor (Poisson) → Traffic prediction
 
 <img width="427" height="333" alt="image" src="https://github.com/user-attachments/assets/2f1d540d-adee-4b6d-9178-df7016bc6984" />
 
-Random Forest Classifier → Zero-traffic detection
+3. Random Forest Classifier → Zero-traffic detection
 
 <img width="430" height="335" alt="image" src="https://github.com/user-attachments/assets/c006014c-f920-49f9-a410-d3cd3cf88c50" />
 
