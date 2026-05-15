@@ -8,6 +8,9 @@ Traffic congestion is a growing issue in modern cities, impacting daily life, sa
 
 Using data analytics and machine learning, I built a system that not only explains what is happening in traffic, but also predicts what will happen next.
 
+<img width="474" height="265" alt="image" src="https://github.com/user-attachments/assets/aa70d66e-214d-4f24-893d-22e40b5fd05d" />
+
+
 The project delivers:
 
 - Accurate traffic predictions (MAE ≈ 0.36)
