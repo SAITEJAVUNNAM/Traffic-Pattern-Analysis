@@ -15,6 +15,9 @@ The project delivers:
 - Detection of unusual traffic patterns (e.g., diversions, bottlenecks)
 - Actionable insights for smarter city planning
 
+  <img width="413" height="335" alt="image" src="https://github.com/user-attachments/assets/c5907310-fbb5-49c1-8c18-a12d6b37fc1c" />
+
+
 👉 In simple terms:
 This system helps cities reduce congestion, improve safety, and make better decisions using data.
 
@@ -29,6 +32,16 @@ In regulated zones like Parma’s “30 Zone”, city planners need to:
 - Detect unusual disruptions (accidents, diversions, sensor issues)
 - Improve enforcement of speed limits
 - Optimize traffic flow and infrastructure planning
+
+  <img width="736" height="356" alt="image" src="https://github.com/user-attachments/assets/6381a626-e7f9-4f39-a0c8-d47c769c7f7f" />
+  
+  📋 Route Summary:
+Route 47 -> 51:
+  - Average Flow Difference: -21.93
+  - Anomalies Detected: 13
+  - Possible Diversion: Vehicle loss between Sensor 47 and Sensor 51. Average flow difference (-21.93) suggests vehicles are diverting.
+  - Anomaly Insight: 13 anomalies detected. Types: {'None': 273, 'NegativeDrop': 13}
+
 
 Without predictive insights:
 
